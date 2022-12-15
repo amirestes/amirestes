@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... dogs and knitting
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... alice@amirestes.com
+- 📫 How to reach me ... amirestes@gmail.com
 
 <!---
 amirestes/amirestes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
